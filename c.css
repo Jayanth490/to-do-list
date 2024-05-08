@@ -1,0 +1,21 @@
+fieldset {
+    background-color: #eeeeee;
+  }
+  
+  legend {
+    background-color: gray;
+    color: white;
+    padding: 5px 10px;
+  }
+  
+  input {
+    
+    block-size: 7%;
+  }
+  body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: blue;
+  }
+  
